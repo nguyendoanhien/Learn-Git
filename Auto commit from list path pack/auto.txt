@@ -1,0 +1,9 @@
+D:\Hien\Study\Android Studio
+D:\Hien\Study\ASP
+D:\Hien\Study\AutoHotKey
+D:\Hien\Study\C#
+D:\Hien\Study\Regex
+D:\Hien\Study\Sql
+D:\Hien\Study\Visual studio
+D:\Hien\Study\Window Tricks
+D:\Hien\Study\Winform Tricks

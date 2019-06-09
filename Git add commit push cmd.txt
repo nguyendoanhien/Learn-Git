@@ -1,0 +1,1 @@
+git config --global alias.add-commit "!git add -A && git push origin master && git commit -m 'update' && git push origin master;"

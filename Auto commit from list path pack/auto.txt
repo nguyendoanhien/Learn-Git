@@ -1,9 +1,13 @@
-D:\Hien\Study\Android Studio
-D:\Hien\Study\ASP
-D:\Hien\Study\AutoHotKey
-D:\Hien\Study\C#
-D:\Hien\Study\Regex
-D:\Hien\Study\Sql
-D:\Hien\Study\Visual studio
-D:\Hien\Study\Window Tricks
 D:\Hien\Study\Winform Tricks
+D:\Hien\Study\Window Tricks
+D:\Hien\Study\Visual studio
+D:\Hien\Study\Sql
+D:\Hien\Study\Regex
+D:\Hien\Study\git
+D:\Hien\Study\C#
+D:\Hien\Study\Browser
+D:\Hien\Study\AutoHotKey
+D:\Hien\Study\ASP
+D:\Hien\Study\Android Studio
+D:\Hien\Study\Android
+D:\Hien\Study\Directory Opus
